@@ -1,0 +1,230 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
+    * {
+        box-sizing: border-box;
+        font-family: "Roboto";
+    }
+    .container {
+        max-width: 1440px;
+    }
+    header{
+        padding-top: 20px;
+        padding-left: 380px;
+        background-color: rgba(38, 90, 106, 1);
+        width: 1920px;
+    }
+    .pfnavbar{
+  
+      height:60px;
+        display: flex;
+        gap:120px;
+        
+    }
+    .ntexts{
+        margin-left: 150px;
+        display: flex;
+        gap:50px;
+        text-align: center;
+        margin-top:-5px;
+        
+    }
+    .textsitems{
+        font-family: "Inter";
+        font-size: 18px;
+        font-weight: 600;
+        color:rgba(161, 181, 187, 1);
+    }
+    .nbutton 
+    {
+        background-color:rgba(20, 94, 118, 1);
+        border:25px;
+        border-radius:25px;
+        color:white;
+        width:100px;
+        text-align: center;
+       margin-bottom:10px;
+       font-size:18px;
+       font-weight: 700;
+       font-family: "Inter";
+       margin-left: 70px;
+    }
+    #intro{
+        background-color: rgba(38, 90, 106, 1);
+        width: 1920px;
+        height: 1004px;
+    }
+.musa{
+    background-color: rgba(9, 69, 86, 1);
+    width: 195px;
+    height: 65px;
+    border-radius: 30px;
+    margin-top: 150px;
+    margin-left: 360px;
+    border: none;
+    font-family: "Schoolbell";
+    font-size: 24px;
+    font-weight: 200;
+    color: rgba(255, 255, 255, 1);
+}
+.information h1{
+    color: rgba(255, 255, 255, 1);
+    font-family: "Inter";
+    font-size: 65px;
+    font-weight: 700;
+    width: 537px;
+    margin-left: 360px;
+
+}
+.information h5{
+    color: rgba(132, 148, 153, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    width: 511px;
+    margin-left: 360px;
+    margin-top: -20px;
+}
+.hire{
+    background-color: rgba(255, 166, 58, 1);
+    width: 137px;
+    height: 61px;
+    border-radius: 25px;
+    border: none;
+    margin-top: 20px;
+    font-family: "Inter";
+    margin-left: 360px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+}
+.minitext p{
+    color: rgba(182, 205, 212, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 550px;
+    margin-top: -40px;
+}
+.suits{
+    margin-left: 780px;
+    margin-top: -720px;
+}
+.biography{
+    background-color: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(58px);
+    border: 3px solid rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    width: 300px;
+    height: 169px;
+    margin-left: 1470px;
+    margin-top: -470px;
+}
+.biography h4{
+    color: rgba(255, 255, 255, 1);
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 400;
+    width: 244px;
+    margin-left: 30px;
+    
+}
+.biography img{
+    margin-left: 30px;
+}
+.biography h3{
+    color: rgba(255, 255, 255, 1);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 90px;
+    margin-top: -48px;
+}
+.biography h5{
+    color: rgba(161, 181, 187, 1);
+    font-family: "Inter";
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 90px;
+    margin-top: -10px;
+}
+.stats{
+    background-color:rgba(255, 255, 255, 1);
+    width: 1170px;
+    height: 323px;
+    border-radius: 30px;
+    margin-top: 400px;
+    margin-left: 360px;
+}
+.stats h3{
+    color: rgba(38, 90, 106, 1);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 200px;
+    padding-top: 80px;
+}
+.stats h2{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 38px;
+    font-weight: 600;
+    margin-left: 200px;
+    padding-top: 10px;
+}
+.stats h5{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+.experience h2{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 38px;
+    font-weight: 600;
+    margin-left: 855px;
+    margin-top: -170px;
+}
+.experience h5{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 800px;
+    margin-top: -20px;
+}
+.awards h2{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 38px;
+    font-weight: 600;
+    margin-left: 1050px;
+    margin-top: -110px;
+}
+.awards h5{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 1050px;
+    margin-top: -18px;
+}
+.clients h2{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 38px;
+    font-weight: 600;
+    margin-left: 1200px;
+    margin-top: -110px;
+}
+.clients h5{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 1200px;
+    margin-top: -20px;
+}
