@@ -370,3 +370,136 @@ margin-left: 30px;
 margin-top: -10px;
 
 }
+.featured h2{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 45px;
+    margin-left: 370px;
+    margin-top: 200px;
+}
+.featured h6{
+    color: rgba(117, 117, 117, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    width: 569px;
+    margin-left: 370px;
+    margin-top: -20px;
+}
+.firstcard{
+    margin-left: 370px;
+    margin-top: 10px;
+}
+.firstcard h3{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 30px;
+    font-weight: 600;
+}
+.firstcard p{
+    color: rgba(117, 117, 117, 1);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    width: 426px;
+    margin-top: -20px;
+}
+.firstcard h4{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 500;
+}
+.newimg{
+    margin-top: -48px;
+    position: absolute;
+    margin-left: 546px;
+}
+.secondcard{
+    margin-left: 1000px;
+    margin-top: -600px;
+}
+.secondcard h3{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 30px;
+    font-weight: 600;
+}
+.secondcard p{
+    color: rgba(117, 117, 117, 1);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    width: 426px;
+    margin-top: -20px;
+}
+.secondcard h4{
+    color: rgba(255, 168, 0, 1);
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 500;
+}
+.newimg2{
+    margin-top: -48px;
+    position: absolute;
+    margin-left: 1176px;
+}
+.thirdcard{
+    margin-left: 370px;
+    margin-top: 50px;
+}
+.thirdcard h3{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 30px;
+    font-weight: 600;
+}
+.thirdcard p{
+    color: rgba(117, 117, 117, 1);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    width: 426px;
+    margin-top: -20px;
+}
+.thirdcard h4{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 500;
+}
+.newimg3{
+    margin-top: -48px;
+    position: absolute;
+    margin-left: 546px;
+}
+.fourthcard{
+    margin-left: 1000px;
+    margin-top: -600px;
+}
+.fourthcard h3{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 30px;
+    font-weight: 600;
+}
+.fourthcard p{
+    color: rgba(117, 117, 117, 1);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    width: 426px;
+    margin-top: -20px;
+}
+.fourthcard h4{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 500;
+}
+.newimg4{
+    margin-top: -48px;
+    position: absolute;
+    margin-left: 1176px;
+}
