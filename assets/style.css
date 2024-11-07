@@ -5,6 +5,7 @@
         box-sizing: border-box;
         font-family: "Inter","Schoolbell";
     }
+ 
     .container {
         max-width: 1440px;
     }
@@ -502,4 +503,44 @@ margin-top: -10px;
     margin-top: -48px;
     position: absolute;
     margin-left: 1176px;
+}
+#about_musa{
+    background-color: rgba(8, 84, 108, 1);
+    width: 1920px;
+    height: 730px;
+    margin-top: 200px;
+}
+.img{
+    margin-top: -630px;
+    margin-left: 330px;
+}
+.texts{
+    margin-top: -500px;
+}
+.texts img{
+   margin-left: 1030px;
+   position: absolute;
+ 
+}
+.texts h3{
+    color: rgba(255, 255, 255, 1);
+    font-family: "Inter";
+    font-size: 16px;
+    width: 585px;
+    font-weight: 400;
+    margin-left: 1030px;
+    padding-top: 70px;
+    white-space: pre-line; 
+    line-height: 1.5;  
+}
+.texts h5{
+    color: rgba(170, 191, 198, 1);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 1030px;
+}
+.last{
+    margin-left: 1030px;
+    margin-top: 20px;
 }
