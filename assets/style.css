@@ -544,3 +544,97 @@ margin-top: -10px;
     margin-left: 1030px;
     margin-top: 20px;
 }
+.images{
+    margin-top: 170px;
+    margin-left: 400px;
+}
+.infotext{
+    margin-left: 1110px;
+    margin-top: -625px;
+}
+.infotext h2{
+    color: rgba(8, 84, 108, 1);
+    font-family: "Inter";
+    font-size: 45px;
+    font-weight: 600;
+    width: 222px;
+}
+.infotext h5{
+    color: rgba(117, 117, 117, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    width: 337px;
+    margin-top: -20px;
+}
+.blog{
+    background-color: rgba(255, 166, 58, 1);
+    border-radius: 30px;
+    border: none;
+    width: 191px;
+    height: 61px;
+    color: rgba(255, 255, 255, 1);
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.stretch{
+    margin-left: 1110px;
+    margin-top: 200px;
+}
+.journey{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.journey h2{
+    color: rgba(8, 84, 108, 1);
+    font-size: 35px;
+    font-family: "Inter";
+    font-weight: 600;
+    width: 520px;
+}
+.journey h5{
+    color: rgba(117, 117, 117, 1);
+    font-family: "inter";
+    font-weight: 400;
+    font-size: 16px;
+    width: 585px;
+}
+.links{
+    display: flex;
+    gap: 20px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.publish{
+    color: rgba(117, 117, 117, 1);
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 400;
+}
+.market{
+    background-color: rgba(255, 248, 235, 1);
+    width: 136px;
+    height: 48px;
+    border-radius: 30px;
+    border: none;
+    color: rgba(255, 168, 0, 1);
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 400;
+}
+.category{
+    color: rgba(117, 117, 117, 1);
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 400;
+}
+.date{
+        color: rgba(117, 117, 117, 1);
+        font-family: "Inter";
+        font-size: 15px;
+        font-weight: 400;
+        margin-left: 900px;
+        margin-top: -30px;
+}
